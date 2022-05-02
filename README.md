@@ -25,14 +25,21 @@ Here are some ideas to get you started:
 <p align="left"> 
   
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-  <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
+  ![Android Studio](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=blue)&nbsp;
+  ![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift&logoColor=FFA518)&nbsp;
+  ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=FFA518)&nbsp;
+  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+  ![Kotlin](https://img.shields.io/badge/Kotlin-05122A?&style=flat-square&logo=kotlin&logoColor=FFA518)
+  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+  ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+  ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
+  ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+  ![Git](https://img.shields.io/badge/-git-red?logo=git&logoColor=white)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)&nbsp;
+ r 
  
   <a>
     <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
@@ -40,12 +47,8 @@ Here are some ideas to get you started:
   &emsp; 
   <a> 
     <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
-  &emsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-  ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
-  ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
+  </a>&emsp;
+  
   
 </p>
 
