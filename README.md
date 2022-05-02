@@ -1,4 +1,4 @@
-## Hello there I am Wycliff N here.👋
+### Hello there, Wycliff N Here.👋
 <!--
 **wykeenjenga/wykeenjenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+<p align="center"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%"></p>
+
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -21,9 +23,12 @@ Here are some ideas to get you started:
 ## My tech stack
 
 <p align="left"> 
+  
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 
   <a> 
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
+    
   </a> 
   &emsp;
   <a> 
