@@ -12,11 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="center"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%"></p>
 -->
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-<p align="center"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%"></p>
-
-
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -37,9 +35,6 @@ Here are some ideas to get you started:
   ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
   ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-  ![Git](https://img.shields.io/badge/-git-red?logo=git&logoColor=white)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)&nbsp;
- r 
  
   <a>
     <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
@@ -48,17 +43,15 @@ Here are some ideas to get you started:
   <a> 
     <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
   </a>&emsp;
-  
-  
 </p>
 
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/wycliff-njenga-5973b512a//" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/viralbhadeshiya/" target="blank"><img align="center"
+      alt="Wycliff Njenga" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/wykee2/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
