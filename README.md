@@ -1,4 +1,4 @@
-### Hello there, Wycliff N Here.👋
+### Hello there, Wykee N Here.👋
 <!--
 **wykeenjenga/wykeenjenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
