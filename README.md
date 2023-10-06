@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ## My tech stack
 
 <p align="left"> 
-  
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-  ![Android Studio](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=blue)&nbsp;
+
   ![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift&logoColor=FFA518)&nbsp;
   ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=FFA518)&nbsp;
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+  ![Android Studio](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=blue)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
   ![Kotlin](https://img.shields.io/badge/Kotlin-05122A?&style=flat-square&logo=kotlin&logoColor=FFA518)
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
